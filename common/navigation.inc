@@ -1,8 +1,8 @@
       <div class="row">
         <div class="row lang-slector">
-          <a href="#"><img onclick="document.body.className='en'" src="images/gb.png" alt="English"></img></a>
-          <a href="#"><img onclick="document.body.className='de'" src="images/de.png" alt="Deutsch"></img></a>
-          <a href="#"><img onclick="document.body.className='fr'" src="images/fr.png" alt="Fran&ccedil;ais"></img></a>
+          <a onclick="setLang('en');"><img src="images/gb.png" alt="English"></img></a>
+          <a onclick="setLang('de');"><img src="images/de.png" alt="Deutsch"></img></a>
+          <a onclick="setLang('fr');"><img src="images/fr.png" alt="Fran&ccedil;ais"></img></a>
         </div>
       </div>
       <div class="masthead">
