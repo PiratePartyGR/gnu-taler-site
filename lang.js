@@ -16,10 +16,11 @@ function setLang(l)
 
 function get_default_lang()
 {
+	langs = ['/en/', '/de/', '/fr/'];
+
 	for (var i in navigator.languages) {
-		alert(i);
-		for (var j in ['/en/', '/de/', '/fr/']) {
-			if (i.search(j) != -1) {
+		for (var j in langs) {
+			if (navigator.languages[i].search(langs[j]) != -1) {
 				return j;
 			}
 		}
