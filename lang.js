@@ -16,8 +16,9 @@ function setLang(l)
 
 function get_default_lang()
 {
-	for (i in navigator.languages) {
-		for (j in ['/en/', '/de/', '/fr/']) {
+	for (var i in navigator.languages) {
+		alert(i);
+		for (var j in ['/en/', '/de/', '/fr/']) {
 			if (i.search(j) != -1) {
 				return j;
 			}
