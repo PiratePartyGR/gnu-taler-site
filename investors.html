@@ -18,15 +18,32 @@
       <div class="row">
         <div class="col-lg-4">
           <h2>Efficient</h2>
-          <p>.</p>
+          <p>Taler uses efficient cryptographic primitives (such as RSA 2048 and
+             EdDSA) and is thus expected to be able to handle large transaction
+             volumes, only limited by the input/output capabilities of the
+             database. Thus, running a Taler mint should be profitable even
+             with very low (less than 1 cent) transaction fees (at appropriate
+             transaction volume).</p>
         </div>
         <div class="col-lg-4">
           <h2>Secure</h2>
-          <p>.</p>
+          <p>All transactions in Taler are secured using modern cryptography and
+             trust in all parties is minimized. Financial damage is bounded
+             (for customers, merchants and the mint) even
+             in the case that systems are compromised and private keys are stolen.
+             Databases can be audited for consistency, resulting in either the
+             detection of compromised systems or the demonstration that
+             participants were honest.</p>
        </div>
         <div class="col-lg-4">
           <h2>Business Model</h2>
-          <p>.</p>
+          <p>The basic business model for Taler is the operation of a mint.  A
+             mint converts money from traditional payment systems (Mastercard,
+             SEPA, Visa, BitCoin, ACH, SWIFT, etc.) to anonymous electronic
+             coins in the same currency. The customer can then redeem the electronic
+             coins at a merchant, who can exchange them for money represented using
+             traditional payment systems at the mint.  The mint can then charge
+             fees (to the customer, merchant or both) to facilitate the transactions.</p>
         </div>
       </div>
       <!--# include file="common/footer.inc" -->
