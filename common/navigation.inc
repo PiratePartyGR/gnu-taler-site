@@ -1,5 +1,6 @@
       <button onclick="document.body.className='en'">english</button>
-      <button onclick="document.body.className='de'">deutsch</button>      
+      <button onclick="document.body.className='de'">deutsch</button>
+      <button onclick="document.body.className='fr'">fran&cedil;ais</button>
       <div class="masthead">
         <ul class="nav nav-justified">
           <li class="active"><a href="/">Home</a></li>
