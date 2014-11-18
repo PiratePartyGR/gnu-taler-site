@@ -1,4 +1,4 @@
-      <img onclick="document.body.className='en'" src="images/en.png" alt="English"></img>
+      <img onclick="document.body.className='en'" src="images/gb.png" alt="English"></img>
       <img onclick="document.body.className='de'" src="images/de.png" alt="Deutsch"></img>
       <img onclick="document.body.className='fr'" src="images/fr.png" alt="Fran&ccedil;ais"></img>
       <div class="masthead">
