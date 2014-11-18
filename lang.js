@@ -47,5 +47,5 @@ function activate_menu()
 {
 	b = document.getElementsByClassName("m_" + document.URL.replace(/^.*(\\|\/|\:)/, '').split('.')[0])
 	for (i = 0; i < b.length; i++)
-		b.setAttribute('class', 'active');
+		b[i].setAttribute('class', 'active');
 }
