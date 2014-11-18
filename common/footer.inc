@@ -4,4 +4,5 @@
       </div>
     <script type="text/javascript">//<![CDATA[
       loadLang();
+      activate_menu();
     //]]></script>
