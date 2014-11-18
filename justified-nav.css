@@ -28,7 +28,7 @@ body {
   position:fixed;
   z-index:99;
   top:0;
-  right:100;
+  right:-100;
   left:100;
 }
 .nav-justified > li > a {
