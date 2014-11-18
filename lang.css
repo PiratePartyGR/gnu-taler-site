@@ -1,6 +1,9 @@
-body.en :lang(de) {
+body.en :lang(de) :lang(fr) {
   display: none;
 }
-body.de :lang(en) {
+body.de :lang(fr) :lang(en) {
+  display: none;
+}
+body.fr :lang(en) :lang(de) {
   display: none;
 }
