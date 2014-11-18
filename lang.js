@@ -18,8 +18,9 @@ function get_default_lang()
 {
 	for (l in navigator.languages) {
 		for (j in ['en', 'de', 'fr']) {
-			if (l.search(j) != -1)
+			if (l.search(j) != -1) {
 				return j;
+			}
 		}
 	}
 
