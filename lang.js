@@ -45,5 +45,7 @@ function loadLang()
 
 function activate_menu()
 {
-	document.getElementById("m_" + document.URL.replace(/^.*(\\|\/|\:)/, '').split('.')[0]).setAttribute('class', 'active');
+	b = document.getElementsByClass("m_" + document.URL.replace(/^.*(\\|\/|\:)/, '').split('.')[0])
+	for (i = 0; i < b.length(); i++)
+		b.setAttribute('class', 'active');
 }

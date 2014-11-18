@@ -7,25 +7,25 @@
       </div>
       <div class="masthead">
         <ul class="nav nav-justified">
-          <li id="m_main"><a href="/main.html">Home</a></li>
-	  <li lang="en" id="m_citizens"><a href="/citizens">Citizens</a></li>
-	  <li lang="de" id="m_citizens"><a href="/citizens">B&uuml;rger</a></li>
-	  <li lang="fr" id="m_citizens"><a href="/citizens">Citoyens</a></li>
-          <li lang="en" id="m_merchants"><a href="/merchants">Merchants</a></li>
-          <li lang="de" id="m_merchants"><a href="/merchants">H&auml;ndler</a></li>
-          <li lang="fr" id="m_merchants"><a href="/merchants">Commer&ccedil;ants</a></li>
-          <li lang="en" id="m_governments"><a href="/governments">Governments</a></li>
-          <li lang="de" id="m_governments"><a href="/governments">Regierungen</a></li>
-          <li lang="fr" id="m_governments"><a href="/governments">Gouvernements</a></li>
-          <li lang="en" id="m_developers"><a href="/developers">Developers</a></li>
-          <li lang="de" id="m_developers"><a href="/developers">Entwickler</a></li>
-          <li lang="fr" id="m_developers"><a href="/developers">Développeurs</a></li>
-          <li lang="en" id="m_investors"><a href="/investors">Investors</a></li>
-          <li lang="de" id="m_investors"><a href="/investors">Investoren</a></li>
-          <li lang="fr" id="m_investors"><a href="/investors">Invéstisseurs</a></li>
-          <li lang="en" id="m_about"><a href="/about">About Us</a></li>
-          <li lang="de" id="m_about"><a href="/about">&Uuml;ber Uns</a></li>
-          <li lang="fr" id="m_about"><a href="/about">À propos</a></li>
+          <li class="m_main"><a href="/main.html">Home</a></li>
+	  <li lang="en" class="m_citizens"><a href="/citizens">Citizens</a></li>
+	  <li lang="de" class="m_citizens"><a href="/citizens">B&uuml;rger</a></li>
+	  <li lang="fr" class="m_citizens"><a href="/citizens">Citoyens</a></li>
+          <li lang="en" class="m_merchants"><a href="/merchants">Merchants</a></li>
+          <li lang="de" class="m_merchants"><a href="/merchants">H&auml;ndler</a></li>
+          <li lang="fr" class="m_merchants"><a href="/merchants">Commer&ccedil;ants</a></li>
+          <li lang="en" class="m_governments"><a href="/governments">Governments</a></li>
+          <li lang="de" class="m_governments"><a href="/governments">Regierungen</a></li>
+          <li lang="fr" class="m_governments"><a href="/governments">Gouvernements</a></li>
+          <li lang="en" class="m_developers"><a href="/developers">Developers</a></li>
+          <li lang="de" class="m_developers"><a href="/developers">Entwickler</a></li>
+          <li lang="fr" class="m_developers"><a href="/developers">Développeurs</a></li>
+          <li lang="en" class="m_investors"><a href="/investors">Investors</a></li>
+          <li lang="de" class="m_investors"><a href="/investors">Investoren</a></li>
+          <li lang="fr" class="m_investors"><a href="/investors">Invéstisseurs</a></li>
+          <li lang="en" class="m_about"><a href="/about">About Us</a></li>
+          <li lang="de" class="m_about"><a href="/about">&Uuml;ber Uns</a></li>
+          <li lang="fr" class="m_about"><a href="/about">À propos</a></li>
         </ul>
       </div>
 
