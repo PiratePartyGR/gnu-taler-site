@@ -1,6 +1,8 @@
-      <img onclick="document.body.className='en'" src="images/gb.png" alt="English"></img>
-      <img onclick="document.body.className='de'" src="images/de.png" alt="Deutsch"></img>
-      <img onclick="document.body.className='fr'" src="images/fr.png" alt="Fran&ccedil;ais"></img>
+      <div class="lang-slector">
+        <img onclick="document.body.className='en'" src="images/gb.png" alt="English"></img>
+        <img onclick="document.body.className='de'" src="images/de.png" alt="Deutsch"></img>
+        <img onclick="document.body.className='fr'" src="images/fr.png" alt="Fran&ccedil;ais"></img>
+      </div>
       <div class="masthead">
         <ul class="nav nav-justified">
           <li class="active"><a href="/">Home</a></li>
