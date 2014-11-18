@@ -27,11 +27,11 @@ function get_default_lang()
 }
 function loadLang()
 {
-	l = '';
+	l = 'null';
 	if (supports_html5_storage()) {
 		l = sessionStorage.getItem('lang');
 	}
 
-	if (l == '') l = get_default_lang();
+	if (l == 'null') l = get_default_lang();
 	setLang(l);
 }
