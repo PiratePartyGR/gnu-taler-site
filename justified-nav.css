@@ -15,8 +15,8 @@ body {
   background-color: transparent;
 }
 .jumbotron .btn {
-  padding: 14px 24px;
-  font-size: 21px;
+  padding: 12px 22px;
+  font-size: 19px;
 }
 
 /* Customize the nav-justified links to be fill the entire space of the .navbar */
@@ -27,9 +27,9 @@ body {
   border-radius: 5px;
   position:fixed;
   z-index:99;
-  top:0;
-  right:-100;
-  left:100;
+  top:20;
+  right:0;
+  left:0;
 }
 .nav-justified > li > a {
   padding-top: 15px;
