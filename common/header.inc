@@ -11,6 +11,9 @@
     <link href="lang.css" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
     <script src="lang.js"></script>
+    <script type="text/javascript">//<![CDATA[
+      loadLang();
+    //]]></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
