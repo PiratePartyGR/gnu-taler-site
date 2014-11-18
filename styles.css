@@ -6,5 +6,5 @@
 	margin-right: 15px;
 }
 html {
-    height: 102%;
+	overflow-y: scroll;
 }
