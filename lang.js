@@ -38,3 +38,8 @@ function loadLang()
 	if (l == 'null') l = get_default_lang();
 	setLang(l);
 }
+
+function activate_menu()
+{
+	document.getElementById("m_" + document.URL.replace(/^.*(\\|\/|\:)/, '').split('.')[0]).createAttribute('class', 'active');
+}
