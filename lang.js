@@ -20,9 +20,9 @@ function get_default_lang()
 
 	for (var i in navigator.languages) {
 		for (var j in langs) {
+			alert(navigator.languages[i]);
+			alert(langs[j]);
 			if (navigator.languages[i].search(langs[j]) != -1) {
-				alert(navigator.languages[i]);
-				alert(langs[j]);
 				return j;
 			}
 		}
