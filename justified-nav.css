@@ -25,11 +25,11 @@ body {
   background-color: #eee;
   border: 1px solid #ccc;
   border-radius: 5px;
-  position:fixed;
+/*  position:fixed;
   z-index:99;
   top:20;
   right:0;
-  left:0;
+  left:0;*/
 }
 .nav-justified > li > a {
   padding-top: 15px;
