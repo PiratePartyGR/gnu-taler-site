@@ -1,4 +1,4 @@
-      <div class="lang-slector">
+      <div class="row lang-slector">
         <a href="#"><img onclick="document.body.className='en'" src="images/gb.png" alt="English"></img></a>
         <a href="#"><img onclick="document.body.className='de'" src="images/de.png" alt="Deutsch"></img></a>
         <a href="#"><img onclick="document.body.className='fr'" src="images/fr.png" alt="Fran&ccedil;ais"></img></a>
