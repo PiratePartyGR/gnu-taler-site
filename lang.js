@@ -19,10 +19,10 @@ function loadLang()
 	if (supports_html5_storage()) {
 		l = sessionStorage.getItem('lang');
 		if (l == '') {
-			l = window.navigator.userLanguage || window.navigator.language;
+			l = .navigator.userLanguage || .navigator.language;
 		}
 	} else {
-		l = window.navigator.userLanguage || window.navigator.language;
+		l = .navigator.userLanguage || .navigator.language;
 	}
 	setLang(l);
 }
