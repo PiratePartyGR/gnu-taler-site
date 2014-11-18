@@ -38,5 +38,3 @@ function loadLang()
 	if (l == 'null') l = get_default_lang();
 	setLang(l);
 }
-
-window.onload = loadLang;
