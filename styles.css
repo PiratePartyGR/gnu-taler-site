@@ -1,6 +1,7 @@
 .lang-slector {
-	position: absolute;
 	float: right;
 	padding-top: 2mm;
-	padding-bottom: 1mm;
+	padding-bottom: 4mm;
+	margin-left:  15px;
+	margin-right: 15px;
 }
