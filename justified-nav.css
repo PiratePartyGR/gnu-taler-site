@@ -27,7 +27,9 @@ body {
   border-radius: 5px;
   position:fixed;
   z-index:99;
-  width: auto;
+  top:0;
+  right:0;
+  left:0;
 }
 .nav-justified > li > a {
   padding-top: 15px;
