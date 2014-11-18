@@ -1,9 +1,18 @@
-body.en :lang(de) :lang(fr) {
+body.en :lang(de) {
   display: none;
 }
-body.de :lang(fr) :lang(en) {
+body.en :lang(fr) {
   display: none;
 }
-body.fr :lang(en) :lang(de) {
+body.de :lang(en) {
+  display: none;
+}
+body.de :lang(fr) {
+  display: none;
+}
+body.fr :lang(de) {
+  display: none;
+}
+body.fr :lang(en) {
   display: none;
 }
