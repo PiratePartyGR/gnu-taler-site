@@ -1,9 +1,9 @@
+      <div class="lang-slector">
+        <a href="#"><img onclick="document.body.className='en'" src="images/gb.png" alt="English"></img></a>
+        <a href="#"><img onclick="document.body.className='de'" src="images/de.png" alt="Deutsch"></img></a>
+        <a href="#"><img onclick="document.body.className='fr'" src="images/fr.png" alt="Fran&ccedil;ais"></img></a>
+      </div>
       <div class="masthead">
-        <div class="lang-slector">
-          <a href="#"><img onclick="document.body.className='en'" src="images/gb.png" alt="English"></img></a>
-          <a href="#"><img onclick="document.body.className='de'" src="images/de.png" alt="Deutsch"></img></a>
-          <a href="#"><img onclick="document.body.className='fr'" src="images/fr.png" alt="Fran&ccedil;ais"></img></a>
-        </div>
         <ul class="nav nav-justified">
           <li class="active"><a href="/">Home</a></li>
 	  <li><a href="/citizens">Citizens</a></li>
