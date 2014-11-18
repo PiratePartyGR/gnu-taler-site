@@ -28,6 +28,7 @@ function get_default_lang()
 
 	return 'en';
 }
+
 function loadLang()
 {
 	l = 'null';
@@ -37,6 +38,9 @@ function loadLang()
 
 	if (l == 'null') l = get_default_lang();
 	setLang(l);
+
+	if (l == 'de') document.title = 'Taler - Taxierbare Anonyme Liberale Elektronische Reserven';
+	if (l == 'fr') document.title = 'Taler - Taxable Anonyme Libre Électronique Réserve';
 }
 
 function activate_menu()
