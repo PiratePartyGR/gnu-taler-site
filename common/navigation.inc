@@ -7,9 +7,9 @@
       </div>
       <div class="masthead">
         <ul class="nav nav-justified">
-          <li lang="en" class="m_main"><a href="/main.html">Home</a></li>
-          <li lang="de" class="m_main"><a href="/main.html">Home</a></li>
-          <li lang="fr" class="m_main"><a href="/main.html">Accueil</a></li>
+          <li lang="en" class="m_index"><a href="/">Home</a></li>
+          <li lang="de" class="m_index"><a href="/">Home</a></li>
+          <li lang="fr" class="m_index"><a href="/">Accueil</a></li>
 	  <li lang="en" class="m_citizens"><a href="/citizens">Citizens</a></li>
 	  <li lang="de" class="m_citizens"><a href="/citizens">B&uuml;rger</a></li>
 	  <li lang="fr" class="m_citizens"><a href="/citizens">Citoyens</a></li>
