@@ -1,11 +1,11 @@
-      <div class="row">
-        <div class="row lang-slector">
-          <a href="#" onclick="setLang('en');"><img src="images/gb.png" alt="English"></img></a>
-          <a href="#" onclick="setLang('de');"><img src="images/de.png" alt="Deutsch"></img></a>
-          <a href="#" onclick="setLang('fr');"><img src="images/fr.png" alt="Fran&ccedil;ais"></img></a>
-        </div>
-      </div> 
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+       <div class="row">
+         <div class="row lang-slector">
+           <a href="#" onclick="setLang('en');"><img src="images/gb.png" alt="English"></img></a>
+           <a href="#" onclick="setLang('de');"><img src="images/de.png" alt="Deutsch"></img></a>
+           <a href="#" onclick="setLang('fr');"><img src="images/fr.png" alt="Fran&ccedil;ais"></img></a>
+         </div>
+       </div> 
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
             <span class="sr-only">Toggle navigation</span>
