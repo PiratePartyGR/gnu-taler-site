@@ -13,6 +13,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+          <a class="navbar-brand" href="/">Taler</a>
         </div>
         <div class="collapse navbar-collapse" id="main-navbar">
           <ul class="nav nav-justified">
@@ -34,9 +35,9 @@
             <li lang="en" class="m_investors"><a href="/investors">Investors</a></li>
             <li lang="de" class="m_investors"><a href="/investors">Investoren</a></li>
             <li lang="fr" class="m_investors"><a href="/investors">Investisseurs</a></li>
-            <li lang="en" class="m_about"><a href="/about">About Us</a></li>
+            <li lang="en" class="m_about"><a href="/about">About&nbsp;Us</a></li>
             <li lang="de" class="m_about"><a href="/about">&Uuml;ber Uns</a></li> 
-            <li lang="fr" class="m_about"><a href="/about">À propos</a></li>
+            <li lang="fr" class="m_about"><a href="/about">À&nbsp;propos</a></li>
           </ul> 
         </div>
       </div>
