@@ -6,14 +6,6 @@
         </div>
       </div>
       <div class="masthead">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <div class="nav_lines">
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-        </div>
-        <nav class="collapse navbar-collapse" role="navigation">
         <ul class="nav nav-justified">
           <li lang="en" class="m_index"><a href="/">Home</a></li>
           <li lang="de" class="m_index"><a href="/">Home</a></li>
