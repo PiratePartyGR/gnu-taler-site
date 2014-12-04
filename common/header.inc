@@ -4,7 +4,9 @@
     <!--    <link rel="icon" href="../../favicon.ico"> -->
 
     <!-- Bootstrap core CSS -->
-    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="/dist/js/jquery-1.11.1.min.js"></script>
+    <script src="/dist/js/bootstrap.min.js"></script>
 
     <!-- Custom styles for this template -->
     <link href="justified-nav.css" rel="stylesheet">
