@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Taler - Taxable Anonymous Libre Electronic Reserves: Financial News</title>
+    <meta name="description" content="">
+      <!--# include file="common/header.inc" -->
+  </head>
+  <body class="en" onLoad="loadLang();">
+    <div class="container">
+      <!--# include file="common/navigation.inc" -->
+      <!-- Jumbotron -->
+      <div class="jumbotron">
+        <h1 lang="en">Financial News</h1>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <h2>6-12-2014: Visa and MasterCard's uncompetitive business practices</h2>
+          <p>The Visa and MasterCard duopoly has eliminated competition among
+             banks, setting fees that take away a significant share of profits from
+             small merchants.<br>
+             Taler is an open standard with free software
+             implementations, so merchants do not have to fear a lack of competition.
+          </p>
+          <p><a class="btn btn-info" href="http://www.ocregister.com/articles/gas-644344-card-fees.html" role="button">Source</a></p>
+        </div>
+        <div class="col-lg-12">
+          <h2>5-12-2014: US judge rules banks can sue merchant for bad security</h2>
+          <p>Merchants taking credit card data from customers now have to additionally
+             And Merchants taking credit card data from customers now have to additionally
+             fear banks suing them for losses.  It is not suggested that the merchant
+             in question was not in compliance with PCI DSS security audit procedures.<br>
+             With Taler, merchants never handle sensitive personal credit data, and
+             thus neither customers, mints nor governments would even have standing to
+             sue merchants in court.  Thus, if a merchant system were to be compromised,
+             the damage would be limited to the merchant's own operations.
+          <p><a class="btn btn-info" href="http://arstechnica.com/tech-policy/2014/12/judge-rules-that-banks-can-sue-target-for-2013-credit-card-hack/" role="button">Source</a></p>
+        </div>
+
+        <div class="col-lg-12">
+          <h2>5-12-2014: PayPal for Android gains fingerprint support</h2>
+          <p>Following Visa and MasterCard's move to biometrics, PayPal
+             now supports authenticating purchases with fingerprint
+             recognition.
+             Hence, police can now <a href="http://www.findlaw.co.uk/law/government/civil_rights/500374.html">forcefully take user's fingerprints</a> and
+             <a href="http://www.wired.com/2013/09/the-unexpected-result-of-fingerprint-authentication-that-you-cant-take-the-fifth/">access their mobile computers</a> and possibly empty their electronic wallets
+             <a href="http://www.cbc.ca/news/world/american-shakedown-police-won-t-charge-you-but-they-ll-grab-your-money-1.2760736">in addition to their physical wallets</a>.<br>
+             For Taler, we advise users to protect their digital wallets using
+             passphrases.
+          </p>
+          <p><a class="btn btn-info" href="http://www.digitalspy.co.uk/tech/news/a614631/paypal-for-android-gains-fingerprint-support-on-samsung-devices.html" role="button">Source</a></p>
+        </div>
+
+        <div class="col-lg-12">
+          <h2>10-9-2014: PayPal accounts hacked with a click</h2>
+          <p>Yasser Ali reports a now patched vulnerability in PayPal that would
+             have allowed him to reset other user's passwords and take over their
+             accounts. This is unlikely to be the last vulnerability found in
+             account-based payment systems.<br>
+             In Taler, customers do not have accounts with usernames, passwords
+             or associated e-mail addresses.  Instead, Taler uses reserves which
+             are represented by a private key on the owner's computer.  Users
+             create a reserve by depositing currency at a Taler mint, and can then
+             withdraw digital coins from that reserve using the respective private
+             key.  There is no limit on the number of reserves a user can have, and
+             even hacking the Taler mint would not provide an adversary with access to
+             user's reserves (as the Taler mint does not have the private keys).
+             Stealing in Taler requires breaking into each customer's computer to
+             extract the reserve keys or the coins from the digital wallet.
+          </p>
+          <p><a class="btn btn-info" href="http://yasserali.com/hacking-paypal-accounts-with-one-click/" role="button">Source</a></p>
+        </div>
+        <div class="col-lg-12">
+          <h2>13-11-2014: Visa and MasterCard's to move from passwords to biometrics</h2>
+          <p>Visa and MasterCard are planning to &quot;simplify hated verification
+             systems&quot; by moving from passwords to security codes on mobiles
+             and biometrics.  Continuing their flawed insistence on verifying identity,
+             Visa and MasterCard will thus build a very personal picture of their
+             customers, from shopping habbits down to their cardiac rhythm.<br>
+             Taler does not require a customer's identity to verify a payment, as the
+             payment system cryptographically verifies the coins.  Thus, Taler does
+             not have to intrude into any personal detail of a citizen's life, and
+             certainly not their private medical data.
+          </p>
+          <p><a class="btn btn-info" href="http://www.theguardian.com/money/2014/nov/13/mastercard-visa-kill-off-verification-systems" role="button">Source</a></p>
+        </div>
+        <div class="col-lg-12">
+          <h2>15-9-2013: NSA follows the Money</h2>
+          <p>Despite the EU allowing the NSA access to financial transaction data to
+             track terrorists and organized crime, the NSA saw it necessary to
+             target international payment processors including SWIFT and Visa.
+             As terrorism and organized crime are covered by legal means, industrial
+             espionage to improve the US economy is the only remaining US national
+             interest within the NSA's mandate that would explain this illegal activity.<br>
+             With Taler, mints will only learn the value of a merchant's transactions,
+             not who paid or for what (governments may learn what was sold).  Thus,
+             the Taler mint is a significantly less interesting target for industrial
+             espionage.
+          </p>
+          <p><a class="btn btn-info" href="http://www.spiegel.de/international/world/spiegel-exclusive-nsa-spies-on-international-bank-transactions-a-922276.html" role="button">Source</a></p>
+        </div>
+     </div>
+      <!--# include file="common/footer.inc" -->
+    </div> <!-- /container -->
+  </body>
+</html>
