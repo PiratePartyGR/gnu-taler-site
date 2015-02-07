@@ -12,9 +12,9 @@ function setLang(l)
 	if (supports_html5_storage()) {
 		sessionStorage.setItem('lang', l);
 	}
-	if (l == 'en') document.title = 'Taler - Taxable Anonymous Libre Electronic Reserve';
-	if (l == 'de') document.title = 'Taler - Taxierbare Anonyme Liberale Elektronische Reserven';
-	if (l == 'fr') document.title = 'Taler - Taxable Anonyme Libre Électronique Réserve';
+	if (l == 'en') document.title = 'GNU Taler - Taxable Anonymous Libre Electronic Reserve';
+	if (l == 'de') document.title = 'GNU Taler - Taxierbare Anonyme Liberale Elektronische Reserven';
+	if (l == 'fr') document.title = 'GNU Taler - Taxable Anonyme Libre Électronique Réserve';
 }
 
 function get_default_lang()
