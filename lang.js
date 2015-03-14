@@ -1,3 +1,5 @@
+// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&dn=gpl-3.0.txt GPL-v3-or-Later
+
 function supports_html5_storage() {
 	try {
 		return 'sessionStorage' in window && window['sessionStorage'] !== null;
@@ -51,3 +53,5 @@ function activate_menu()
 		b[i].setAttribute('class', s + ' active');
 	}
 }
+
+// @license-end
