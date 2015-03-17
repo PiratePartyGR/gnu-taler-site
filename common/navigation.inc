@@ -27,8 +27,8 @@
             <li lang="en" class="m_investors"><a href="/investors">Investors</a></li>
             <li lang="de" class="m_investors"><a href="/investors">Investoren</a></li>
             <li lang="fr" class="m_investors"><a href="/investors">Investisseurs</a></li>
-            <li lang="en" class="m_about"><a href="/about">About&nbsp;Us</a></li>
-            <li lang="de" class="m_about"><a href="/about">&Uuml;ber Uns</a></li> 
+            <li lang="en" class="m_about"><a href="/about">About&nbsp;us</a></li>
+            <li lang="de" class="m_about"><a href="/about">&Uuml;ber uns</a></li> 
             <li lang="fr" class="m_about"><a href="/about">À&nbsp;propos</a></li>
           </ul> 
         </div>
