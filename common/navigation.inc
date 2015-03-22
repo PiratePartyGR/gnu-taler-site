@@ -28,9 +28,9 @@
             <li lang="de" class="m_investors"><a href="/investors">Investoren</a></li>
             <li lang="fr" class="m_investors"><a href="/investors">Investisseurs</a></li>
             <li lang="en" class="m_about"><a href="/about">About&nbsp;us</a></li>
-            <li lang="de" class="m_about"><a href="/about">&Uuml;ber uns</a></li> 
+            <li lang="de" class="m_about"><a href="/about">&Uuml;ber uns</a></li>
             <li lang="fr" class="m_about"><a href="/about">À&nbsp;propos</a></li>
-          </ul> 
+          </ul>
         </div>
       </div>
        <div class="navbar navbar-default navbar-fixed-bottom" role="navigation">
@@ -38,6 +38,6 @@
            <a href="#" onclick="setLang('en');"><img src="images/gb.png" alt="English"></img></a>
            <a href="#" onclick="setLang('de');"><img src="images/de.png" alt="Deutsch"></img></a>
            <a href="#" onclick="setLang('fr');"><img src="images/fr.png" alt="Fran&ccedil;ais"></img></a>
+           <a href="#" onclick="setLang('it');"><img src="images/it.png" alt="Italiano"></img></a>
          </div>
-       </div> 
-
+       </div>

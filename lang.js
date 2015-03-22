@@ -41,11 +41,12 @@ function setLang(l)
 	if (l == 'en') document.title = 'GNU Taler - Taxable Anonymous Libre Electronic Reserve';
 	if (l == 'de') document.title = 'GNU Taler - Taxierbare Anonyme Liberale Elektronische Reserven';
 	if (l == 'fr') document.title = 'GNU Taler - Taxable Anonyme Libre Électronique Réserve';
+	if (l == 'it') document.title = 'GNU Taler';
 }
 
 function get_default_lang()
 {
-	langs = ['en', 'de', 'fr'];
+        langs = ['en', 'de', 'fr', 'it'];
 
 	for (var i in navigator.languages) {
 		for (var j in langs) {
