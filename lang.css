@@ -4,15 +4,33 @@ body.en :lang(de) {
 body.en :lang(fr) {
   display: none;
 }
+body.en :lang(it) {
+  display: none;
+}
 body.de :lang(en) {
   display: none;
 }
 body.de :lang(fr) {
   display: none;
 }
+body.de :lang(it) {
+  display: none;
+}
 body.fr :lang(de) {
   display: none;
 }
 body.fr :lang(en) {
+  display: none;
+}
+body.fr :lang(it) {
+  display: none;
+}
+body.it :lang(de) {
+  display: none;
+}
+body.it :lang(en) {
+  display: none;
+}
+body.it :lang(fr) {
   display: none;
 }
