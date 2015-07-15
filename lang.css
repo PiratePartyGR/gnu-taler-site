@@ -7,9 +7,6 @@ body.en :lang(fr) {
 body.en :lang(it) {
   display: none;
 }
-body.en :lang(el) {
-  display: none;
-}
 body.de :lang(en) {
   display: none;
 }
@@ -17,9 +14,6 @@ body.de :lang(fr) {
   display: none;
 }
 body.de :lang(it) {
-  display: none;
-}
-body.de :lang(el) {
   display: none;
 }
 body.fr :lang(de) {
@@ -31,9 +25,6 @@ body.fr :lang(en) {
 body.fr :lang(it) {
   display: none;
 }
-body.fr :lang(el) {
-  display: none;
-}
 body.it :lang(de) {
   display: none;
 }
@@ -41,8 +32,5 @@ body.it :lang(en) {
   display: none;
 }
 body.it :lang(fr) {
-  display: none;
-}
-body.it :lang(el) {
   display: none;
 }
