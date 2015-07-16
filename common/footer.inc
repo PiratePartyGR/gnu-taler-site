@@ -4,7 +4,7 @@
         <p lang="de">Diese Seite wurde allein durch Einsatz von <a href="https://www.gnu.org/">Freier Software</a> erstellt.</p>
         <p lang="fr">This page was created using <a href="https://www.gnu.org/">Free Software</a> only.</p>
         <p lang="it">This page was created using <a href="https://www.gnu.org/">Free Software</a> only.</p>
-        <p lang="gr">Αυτή η σελίδα δημιουργήθηκε χρησιμοποιώντας <a href="http://www.gnu.org/home.el">Ελεύθυερο Λογισμικό</a> μόνο.</p>
+        <p lang="el">Αυτή η σελίδα δημιουργήθηκε χρησιμοποιώντας <a href="http://www.gnu.org/home.el">Ελεύθυερο Λογισμικό</a> μόνο.</p>
       </div>
     <script type="text/javascript">//<![CDATA[
       loadLang();
