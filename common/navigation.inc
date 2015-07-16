@@ -43,7 +43,7 @@
             <li lang="de" class="m_about"><a href="/about">&Uuml;ber uns</a></li>
             <li lang="fr" class="m_about"><a href="/about">À&nbsp;propos</a></li>
             <li lang="it" class="m_about"><a href="/about">Chi siamo</a></li>
-            <li lang="el" class="m_about"><a href="/about">Περί</a></li>
+            <li lang="el" class="m_about"><a href="/about">Σχετικά με εμάς</a></li>
           </ul>
         </div>
       </div>
